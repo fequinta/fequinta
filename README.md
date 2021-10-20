@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fequinta
-- 👀 I’m interested in learning to Web Development
+- 👀 I’m interested in learning Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... No, not yet!
 - 📫 How to reach me ...fquintanavicuna@gmail.com

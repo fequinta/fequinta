@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fequinta
 - 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently in LE WAGON!
 - 💞️ I’m looking to collaborate on ... No, not yet!
 - 📫 How to reach me ...fquintanavicuna@gmail.com
 

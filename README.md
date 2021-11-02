@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @fequinta
-- 👀 I’m interested in learning Web Development
+- 👋 Hi, I’m @fequinta you can reach me: fquintanavicuna@gmail.com
 - 🌱 I’m currently in LE WAGON!
-- 💞️ I’m looking to collaborate on ... No, not yet!
-- 📫 How to reach me ...fquintanavicuna@gmail.com
 
 <!---
 fequinta/fequinta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

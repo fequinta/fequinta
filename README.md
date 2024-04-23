@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico Quintana</h1>
-<h3 align="center">A passionate entrepreneur & dev. Focuses on RoR</h3>
+<h3 align="center">A passionate entrepreneur & data entrepreneur. Focuses on Python, R, SQL</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
